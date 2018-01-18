@@ -1,5 +1,3 @@
-@import url("https://p.typekit.net/p.css?s=1&k=zab2qqy&ht=tk&f=542.6823.6825.10886.27003&a=6953746&app=typekit&e=css");
-
 A,
 ABBR,
 ACRONYM,
@@ -142,7 +140,7 @@ BODY {
 	overflow: hidden;
 	background: #fff;
 	color: #000;
- font-family: "futura-pt-condensed",sans-serif;  
+ 	font-family: "futura-pt",sans-serif;  
 	font-style: normal;
 	font-weight: 300;
 	-webkit-tap-highlight-color: transparent
